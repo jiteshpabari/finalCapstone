@@ -14,6 +14,7 @@ About The Project
 Table of Contents
 
 Installation
+https://rapidapi.com/blog/api-glossary/api-key/
 
 Usage
 
