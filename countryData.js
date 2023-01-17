@@ -11,7 +11,7 @@ let items = [];  // empty array to store fetched data
 let options = {
 method: 'GET',
 headers: {
-	'X-RapidAPI-Key': 'a83a86a065msh45aa146240bcc46p10c7a3jsnb708f6d8e4fc',
+	'X-RapidAPI-Key': 'ENTER YOUR API KEY HERE',
 	'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
     }
 };
