@@ -16,7 +16,7 @@ On running the code you will be able to view the population, elevation and curre
 The easiest and quickest way to download or clone this code will be to use the link provided in the repository page:
 ![clone](https://user-images.githubusercontent.com/122186007/213153592-79e73d33-cf55-489c-8bab-7cf29f46ef7f.png)
 
-Then in Visual Studio Code (VS Code) use the clone repository function, paste the link and use copy from url to save the file to a local drive as shown below and open the file using VSCode:
+Then in Visual Studio Code (VS Code) use the clone repository function, paste the link and use copy from url to save the file to a local drive as shown below and open the file using VS Code:
             
 ![save file](https://user-images.githubusercontent.com/122186007/213154907-e698ff0a-d044-41ad-8a89-4aec0a08768b.png)
 
